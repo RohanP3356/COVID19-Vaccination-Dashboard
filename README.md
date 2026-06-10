@@ -54,4 +54,5 @@ trends, coverage rates, and vaccine distribution across the globe.
 
 ## 📬 Contact
 
-Feel free to raise an issue or connect if you have suggestions or questions!
+Name :- Rohan Phulwadkar
+Email no. :- rohanphulwadkar@gmail.com
